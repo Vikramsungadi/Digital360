@@ -51,8 +51,8 @@ export function Footer() {
               </a>
             </p>
             <p>
-              <a href="tel:+918303022306" className="hover:underline">
-                +91 83030 22306
+              <a href="tel:+918886968078" className="hover:underline">
+                +91 8886968078
               </a>
             </p>
           </div>
