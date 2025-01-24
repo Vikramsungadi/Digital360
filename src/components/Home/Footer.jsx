@@ -44,10 +44,10 @@ export function Footer() {
             <h4 className="text-lg font-semibold mb-2">Contact Us</h4>
             <p>
               <a
-                href="mailto:info@digital360india.com"
+                href="mailto:sales@digital360service.com"
                 className="hover:underline"
               >
-                info@digital360india.com
+                sales@digital360service.com
               </a>
             </p>
             <p>

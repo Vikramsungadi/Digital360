@@ -28,7 +28,7 @@ export function FAQ() {
     {
       question: "How can I get started with your services?",
       answer:
-        "You can contact us via email at info@digital360india.com or call us at +91 83030 22306. We'll schedule a consultation to understand your requirements.",
+        "You can contact us via email at sales@digital360service.com or call us at +91 8886968078. We'll schedule a consultation to understand your requirements.",
     },
   ];
 
