@@ -61,7 +61,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-8 text-center text-gray-500">
           <p>
-            © 2015–{new Date().getFullYear()} Digital360. All rights reserved.
+            © 2020–2024 Digital360. All rights reserved.
           </p>
         </div>
       </div>
